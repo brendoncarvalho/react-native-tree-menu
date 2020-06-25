@@ -1,4 +1,4 @@
-# react-native-tree-menu-simple
+# react-native-tree-menu
 ### A simple and flexible screen menu for react-native apps.
 
 The menu structure is defined as a Javascript object in code or in a separate json file. The menu is styled with a settings object. By default unicode symbols are used as icons for the menu items and for the open/close icons. Alternatively menu items may be customised using whatever icon or image required. 
@@ -13,12 +13,16 @@ The menu structure is defined as a Javascript object in code or in a separate js
 ![screen1](./images/screen1.png)
 
 ## Installation
-npm install react-native-tree-menu-simple
+npm install react-native-tree-menu
+
+or 
+
+yarn add react-native-tree-menu
 ## Use
 Example use:
 ```javascript
 
-import {TreeMenu} from 'react-native-tree-menu-simple';
+import {TreeMenu} from 'react-native-tree-menu';
 
 class App extends Component {
     constructor(props, context) {
