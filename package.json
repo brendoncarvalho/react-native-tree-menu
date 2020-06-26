@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tree-menu-simple",
+  "name": "react-native-tree-menu",
   "version": "1.0.22",
   "description": "A simple and flexible screen menu for react-native applications.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrcwerfar/react-native-tree-menu-simple.git"
+    "url": "git+https://github.com/brendoncarvalho/react-native-tree-menu.git"
   },
   "keywords": [
     "react-native",
@@ -26,9 +26,9 @@
   "author": "Werner Farstad",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrcwerfar/react-native-tree-menu-simple/issues"
+    "url": "https://github.com/brendoncarvalho/react-native-tree-menu/issues"
   },
-  "homepage": "https://github.com/mrcwerfar/react-native-tree-menu-simple#readme",
+  "homepage": "https://github.com/brendoncarvalho/react-native-tree-menu#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.57.0"
   }
